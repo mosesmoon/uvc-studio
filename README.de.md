@@ -4,6 +4,8 @@
 
 UVC Studio 1.1.0 ist eine native App für Capture-Karten, die komplett offline läuft – unter Linux, Windows und auf der Meta Quest. Du spielst über jede UVC-Capture-Karte mit minimaler Latenz, skalierst auf 4K hoch, legst einen Retro-Look oder 3D-Tiefe darüber, blendest deine Webcam ins Spiel ein, nimmst auf und machst Snapshots – ohne dass die App jemals ins Netz geht. 1.1.0, die erste offizielle Version, bringt UVC Studio Platinum auf die Meta Quest: 4K-Upscaling und 3D-Tiefe bleiben jeweils 30 Minuten am Tag frei, ein einmaliger Kauf schaltet sie dauerhaft frei; die Versionen für Linux und Windows bleiben kostenlos und sind jetzt Open Source unter der MIT-Lizenz.
 
+![UVC Studio beim Spielen mit 4K-Upscaling](docs/screenshots/02-playing-4k.png)
+
 ## Plattformen und Downloads
 
 Eine gemeinsame Codebasis: Alle Plattformen haben denselben Funktionsumfang und dieselbe Versionsnummer.
@@ -17,6 +19,18 @@ Eine gemeinsame Codebasis: Alle Plattformen haben denselben Funktionsumfang und 
 Quellcode (Linux und Windows, MIT-Lizenz): dieses Repository oder [`UVCStudio-v1.1.0-src.tar.gz`](https://github.com/mosesmoon/uvc-studio/releases/download/v1.1.0/UVCStudio-v1.1.0-src.tar.gz).
 
 Auf der Meta Quest sind 4K-Upscaling und 3D-Tiefe jeweils 30 Minuten am Tag frei; UVC Studio Platinum, ein einmaliger In-App-Kauf, hebt die Grenze auf. Unter Linux und Windows sind alle Funktionen frei.
+
+## Screenshots
+
+Linux in 1920 × 1080; ein Klick auf ein Bild zeigt es in voller Größe. Das 2D-Fenster auf der Meta Quest hat dieselbe Oberfläche.
+
+<table>
+<tr><td width="50%"><a href="docs/screenshots/01-ready.png"><img src="docs/screenshots/01-ready.png" alt="Startbildschirm: Capture-Karte, Spielton und Webcam werden live geprüft"></a><br><sub>Startbildschirm: Capture-Karte, Spielton und Webcam werden live geprüft</sub></td><td width="50%"><a href="docs/screenshots/03-4k-upscaling.png"><img src="docs/screenshots/03-4k-upscaling.png" alt="4K-Upscaling: vier Upscaler zur Auswahl"></a><br><sub>4K-Upscaling: vier Upscaler zur Auswahl</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/04-settings.png"><img src="docs/screenshots/04-settings.png" alt="Einstellungen: alles auf einem Glas-Panel"></a><br><sub>Einstellungen: alles auf einem Glas-Panel</sub></td><td width="50%"><a href="docs/screenshots/05-webcam-overlay.png"><img src="docs/screenshots/05-webcam-overlay.png" alt="Webcam-Einblendung über dem Spiel"></a><br><sub>Webcam-Einblendung über dem Spiel</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/06-retro-vhs.png"><img src="docs/screenshots/06-retro-vhs.png" alt="Retro-Look: VHS"></a><br><sub>Retro-Look: VHS</sub></td><td width="50%"><a href="docs/screenshots/07-3d-depth.png"><img src="docs/screenshots/07-3d-depth.png" alt="3D-Tiefe"></a><br><sub>3D-Tiefe</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/08-shortcuts.png"><img src="docs/screenshots/08-shortcuts.png" alt="Tastenkürzel"></a><br><sub>Tastenkürzel</sub></td><td width="50%"><a href="docs/screenshots/09-light-theme.png"><img src="docs/screenshots/09-light-theme.png" alt="Helles Design"></a><br><sub>Helles Design</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/10-zh-TW.png"><img src="docs/screenshots/10-zh-TW.png" alt="Oberfläche in 台灣正體中文"></a><br><sub>Oberfläche in 台灣正體中文</sub></td><td width="50%"><a href="docs/screenshots/11-languages.png"><img src="docs/screenshots/11-languages.png" alt="12 Sprachen"></a><br><sub>12 Sprachen</sub></td></tr>
+</table>
 
 ## Erste Schritte
 

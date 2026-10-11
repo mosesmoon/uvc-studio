@@ -4,6 +4,8 @@
 
 UVC Studio 1.1.0 è un'app nativa per schede di acquisizione, completamente offline, per Linux, Windows e Meta Quest: giochi con le tue console attraverso qualsiasi scheda di acquisizione UVC a bassa latenza, porti l'immagine in 4K, aggiungi un effetto retrò o la profondità 3D, sovrapponi la webcam al gioco, registri e scatti istantanee, senza mai collegarti alla rete. La 1.1.0, la prima versione ufficiale, porta UVC Studio Platinum su Meta Quest: l'upscaling 4K e la profondità 3D restano gratuiti per 30 minuti al giorno ciascuno e un acquisto una tantum li sblocca per sempre; le versioni per Linux e Windows restano gratuite e ora sono open source con licenza MIT.
 
+![UVC Studio in gioco con l'upscaling 4K](docs/screenshots/02-playing-4k.png)
+
 ## Piattaforme e download
 
 Un unico codice sorgente: stesse funzioni e stesso numero di versione su tutte le piattaforme.
@@ -17,6 +19,18 @@ Un unico codice sorgente: stesse funzioni e stesso numero di versione su tutte l
 Codice sorgente (Linux e Windows, licenza MIT): questo repository oppure [`UVCStudio-v1.1.0-src.tar.gz`](https://github.com/mosesmoon/uvc-studio/releases/download/v1.1.0/UVCStudio-v1.1.0-src.tar.gz).
 
 Su Meta Quest, l'upscaling 4K e la profondità 3D sono gratuiti per 30 minuti al giorno ciascuno; UVC Studio Platinum, un acquisto in-app una tantum, li rende illimitati. Su Linux e Windows tutte le funzioni sono gratuite.
+
+## Screenshot
+
+Linux a 1920 × 1080; fai clic su un'immagine per vederla a grandezza naturale. La finestra 2D su Meta Quest ha la stessa interfaccia.
+
+<table>
+<tr><td width="50%"><a href="docs/screenshots/01-ready.png"><img src="docs/screenshots/01-ready.png" alt="Schermata iniziale: scheda di acquisizione, audio del gioco e webcam controllati dal vivo"></a><br><sub>Schermata iniziale: scheda di acquisizione, audio del gioco e webcam controllati dal vivo</sub></td><td width="50%"><a href="docs/screenshots/03-4k-upscaling.png"><img src="docs/screenshots/03-4k-upscaling.png" alt="Upscaling 4K: quattro metodi tra cui scegliere"></a><br><sub>Upscaling 4K: quattro metodi tra cui scegliere</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/04-settings.png"><img src="docs/screenshots/04-settings.png" alt="Impostazioni: tutto in un unico pannello di vetro"></a><br><sub>Impostazioni: tutto in un unico pannello di vetro</sub></td><td width="50%"><a href="docs/screenshots/05-webcam-overlay.png"><img src="docs/screenshots/05-webcam-overlay.png" alt="Webcam sovrapposta al gioco"></a><br><sub>Webcam sovrapposta al gioco</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/06-retro-vhs.png"><img src="docs/screenshots/06-retro-vhs.png" alt="Effetto retrò: VHS"></a><br><sub>Effetto retrò: VHS</sub></td><td width="50%"><a href="docs/screenshots/07-3d-depth.png"><img src="docs/screenshots/07-3d-depth.png" alt="Profondità 3D"></a><br><sub>Profondità 3D</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/08-shortcuts.png"><img src="docs/screenshots/08-shortcuts.png" alt="Scorciatoie da tastiera"></a><br><sub>Scorciatoie da tastiera</sub></td><td width="50%"><a href="docs/screenshots/09-light-theme.png"><img src="docs/screenshots/09-light-theme.png" alt="Tema chiaro"></a><br><sub>Tema chiaro</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/10-zh-TW.png"><img src="docs/screenshots/10-zh-TW.png" alt="Interfaccia in 台灣正體中文"></a><br><sub>Interfaccia in 台灣正體中文</sub></td><td width="50%"><a href="docs/screenshots/11-languages.png"><img src="docs/screenshots/11-languages.png" alt="12 lingue dell'interfaccia"></a><br><sub>12 lingue dell'interfaccia</sub></td></tr>
+</table>
 
 ## Per iniziare
 

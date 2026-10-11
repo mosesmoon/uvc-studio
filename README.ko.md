@@ -4,6 +4,8 @@
 
 UVC Studio 1.1.0는 Linux, Windows, Meta Quest에서 동작하는 네이티브 캡처 카드 앱으로, 네트워크 연결 없이 완전히 오프라인으로 작동합니다. 어떤 UVC 캡처 카드로든 콘솔 게임을 낮은 지연으로 즐기고, 4K 업스케일과 레트로 화면, 3D 입체감을 더하고, 게임 화면 위에 웹캠을 띄우고, 녹화와 스냅샷까지 할 수 있습니다. 첫 정식 버전인 1.1.0은 Meta Quest에 UVC Studio 플래티넘을 도입했습니다. 4K 업스케일과 3D 입체감은 각각 하루 30분 무료로 쓸 수 있고, 한 번 구매하면 영구히 무제한이 됩니다. Linux와 Windows 버전은 계속 무료이며 이제 MIT 라이선스의 오픈 소스입니다.
 
+![4K 업스케일로 게임을 플레이하는 UVC Studio](docs/screenshots/02-playing-4k.png)
+
 ## 지원 플랫폼과 다운로드
 
 하나의 코드베이스로 만들어 모든 플랫폼의 기능과 버전 번호가 같습니다.
@@ -17,6 +19,18 @@ UVC Studio 1.1.0는 Linux, Windows, Meta Quest에서 동작하는 네이티브 �
 소스 코드(Linux·Windows 버전, MIT 라이선스): 이 저장소 또는 [`UVCStudio-v1.1.0-src.tar.gz`](https://github.com/mosesmoon/uvc-studio/releases/download/v1.1.0/UVCStudio-v1.1.0-src.tar.gz).
 
 Meta Quest 버전에서는 4K 업스케일과 3D 입체감을 각각 하루 30분 무료로 쓸 수 있고, 앱 내에서 한 번 구매하는 UVC Studio 플래티넘으로 무제한이 됩니다. Linux와 Windows 버전은 모든 기능이 무료입니다.
+
+## 스크린샷
+
+Linux 버전, 1920 × 1080. 이미지를 클릭하면 원본 크기로 볼 수 있습니다. Meta Quest의 2D 창도 같은 인터페이스를 씁니다.
+
+<table>
+<tr><td width="50%"><a href="docs/screenshots/01-ready.png"><img src="docs/screenshots/01-ready.png" alt="준비 화면: 캡처 카드, 게임 오디오, 웹캠을 실시간으로 확인"></a><br><sub>준비 화면: 캡처 카드, 게임 오디오, 웹캠을 실시간으로 확인</sub></td><td width="50%"><a href="docs/screenshots/03-4k-upscaling.png"><img src="docs/screenshots/03-4k-upscaling.png" alt="4K 업스케일: 네 가지 방식 중 선택"></a><br><sub>4K 업스케일: 네 가지 방식 중 선택</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/04-settings.png"><img src="docs/screenshots/04-settings.png" alt="설정: 모든 항목을 하나의 유리 패널에"></a><br><sub>설정: 모든 항목을 하나의 유리 패널에</sub></td><td width="50%"><a href="docs/screenshots/05-webcam-overlay.png"><img src="docs/screenshots/05-webcam-overlay.png" alt="게임 위에 띄운 웹캠 화면"></a><br><sub>게임 위에 띄운 웹캠 화면</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/06-retro-vhs.png"><img src="docs/screenshots/06-retro-vhs.png" alt="레트로 화면: VHS"></a><br><sub>레트로 화면: VHS</sub></td><td width="50%"><a href="docs/screenshots/07-3d-depth.png"><img src="docs/screenshots/07-3d-depth.png" alt="3D 입체감"></a><br><sub>3D 입체감</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/08-shortcuts.png"><img src="docs/screenshots/08-shortcuts.png" alt="키보드 단축키"></a><br><sub>키보드 단축키</sub></td><td width="50%"><a href="docs/screenshots/09-light-theme.png"><img src="docs/screenshots/09-light-theme.png" alt="라이트 테마"></a><br><sub>라이트 테마</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/10-zh-TW.png"><img src="docs/screenshots/10-zh-TW.png" alt="台灣正體中文 인터페이스"></a><br><sub>台灣正體中文 인터페이스</sub></td><td width="50%"><a href="docs/screenshots/11-languages.png"><img src="docs/screenshots/11-languages.png" alt="12개 인터페이스 언어"></a><br><sub>12개 인터페이스 언어</sub></td></tr>
+</table>
 
 ## 시작하기
 

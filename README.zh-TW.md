@@ -4,6 +4,8 @@
 
 UVC Studio 1.1.0 是一套原生、完全離線的擷取卡應用程式，支援 Linux、Windows 與 Meta Quest：透過任何 UVC 擷取卡低延遲玩主機遊戲，並可 4K 升頻、加上復古畫面或 3D 景深、把網路攝影機畫面疊在遊戲上、錄影與截圖，全程不連網。1.1.0 是第一個正式版，為 Meta Quest 推出「UVC Studio 白金」：4K 升頻與 3D 景深每天各可免費使用 30 分鐘，一次購買即可永久無限使用；Linux 與 Windows 版維持免費，並以 MIT 授權開放原始碼。
 
+![UVC Studio 開啟 4K 升頻玩遊戲](docs/screenshots/02-playing-4k.png)
+
 ## 支援平台與下載檔
 
 同一套程式碼，各平台功能與版本號一致。
@@ -17,6 +19,18 @@ UVC Studio 1.1.0 是一套原生、完全離線的擷取卡應用程式，支援
 原始碼（Linux 與 Windows 版，MIT 授權）：本儲存庫，或 [`UVCStudio-v1.1.0-src.tar.gz`](https://github.com/mosesmoon/uvc-studio/releases/download/v1.1.0/UVCStudio-v1.1.0-src.tar.gz)。
 
 Meta Quest 版的 4K 升頻與 3D 景深每天各可免費使用 30 分鐘；購買一次「UVC Studio 白金」（App 內購買）即可無限使用。Linux 與 Windows 版所有功能皆免費。
+
+## 截圖
+
+Linux 版，1920 × 1080；點圖片可看原尺寸。Meta Quest 的 2D 視窗使用相同介面。
+
+<table>
+<tr><td width="50%"><a href="docs/screenshots/01-ready.png"><img src="docs/screenshots/01-ready.png" alt="待機畫面：即時檢查擷取卡、遊戲音訊與網路攝影機"></a><br><sub>待機畫面：即時檢查擷取卡、遊戲音訊與網路攝影機</sub></td><td width="50%"><a href="docs/screenshots/03-4k-upscaling.png"><img src="docs/screenshots/03-4k-upscaling.png" alt="4K 升頻：四種升頻方式可選"></a><br><sub>4K 升頻：四種升頻方式可選</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/04-settings.png"><img src="docs/screenshots/04-settings.png" alt="設定：所有選項都在一個玻璃面板上"></a><br><sub>設定：所有選項都在一個玻璃面板上</sub></td><td width="50%"><a href="docs/screenshots/05-webcam-overlay.png"><img src="docs/screenshots/05-webcam-overlay.png" alt="網路攝影機畫面疊在遊戲上"></a><br><sub>網路攝影機畫面疊在遊戲上</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/06-retro-vhs.png"><img src="docs/screenshots/06-retro-vhs.png" alt="復古畫面：VHS"></a><br><sub>復古畫面：VHS</sub></td><td width="50%"><a href="docs/screenshots/07-3d-depth.png"><img src="docs/screenshots/07-3d-depth.png" alt="3D 景深"></a><br><sub>3D 景深</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/08-shortcuts.png"><img src="docs/screenshots/08-shortcuts.png" alt="鍵盤快捷鍵"></a><br><sub>鍵盤快捷鍵</sub></td><td width="50%"><a href="docs/screenshots/09-light-theme.png"><img src="docs/screenshots/09-light-theme.png" alt="淺色主題"></a><br><sub>淺色主題</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/10-zh-TW.png"><img src="docs/screenshots/10-zh-TW.png" alt="台灣正體中文介面"></a><br><sub>台灣正體中文介面</sub></td><td width="50%"><a href="docs/screenshots/11-languages.png"><img src="docs/screenshots/11-languages.png" alt="12 種介面語言"></a><br><sub>12 種介面語言</sub></td></tr>
+</table>
 
 ## 開始使用
 

@@ -4,6 +4,8 @@
 
 UVC Studio 1.1.0 は、Linux・Windows・Meta Quest で動く、完全オフラインのネイティブなキャプチャーカード用アプリです。どんな UVC キャプチャーカードでもゲーム機を低遅延で遊べて、4K アップスケール、レトロ表示や 3D 奥行き、Web カメラのオーバーレイ、録画、スナップショットまでこなし、ネットワークには一切接続しません。最初の正式版となる 1.1.0 では、Meta Quest 向けに UVC Studio プラチナを導入しました。4K アップスケールと 3D 奥行きはそれぞれ 1 日 30 分まで無料で、一度の購入でずっと無制限になります。Linux 版と Windows 版は引き続き無料で、MIT ライセンスのオープンソースになりました。
 
+![4K アップスケールでゲームをプレイ中の UVC Studio](docs/screenshots/02-playing-4k.png)
+
 ## 対応プラットフォームとダウンロード
 
 ひとつのコードベースから作られており、どのプラットフォームでも機能とバージョン番号は同じです。
@@ -17,6 +19,18 @@ UVC Studio 1.1.0 は、Linux・Windows・Meta Quest で動く、完全オフラ�
 ソースコード（Linux・Windows 版、MIT ライセンス）：このリポジトリ、または [`UVCStudio-v1.1.0-src.tar.gz`](https://github.com/mosesmoon/uvc-studio/releases/download/v1.1.0/UVCStudio-v1.1.0-src.tar.gz)。
 
 Meta Quest 版では、4K アップスケールと 3D 奥行きはそれぞれ 1 日 30 分まで無料です。アプリ内で一度購入する UVC Studio プラチナで無制限になります。Linux 版と Windows 版はすべての機能が無料です。
+
+## スクリーンショット
+
+Linux 版、1920 × 1080。画像をクリックすると原寸で表示されます。Meta Quest の 2D ウィンドウも同じインターフェースです。
+
+<table>
+<tr><td width="50%"><a href="docs/screenshots/01-ready.png"><img src="docs/screenshots/01-ready.png" alt="待機画面：キャプチャーカード、ゲーム音声、Web カメラをその場でチェック"></a><br><sub>待機画面：キャプチャーカード、ゲーム音声、Web カメラをその場でチェック</sub></td><td width="50%"><a href="docs/screenshots/03-4k-upscaling.png"><img src="docs/screenshots/03-4k-upscaling.png" alt="4K アップスケール：4 種類から選択"></a><br><sub>4K アップスケール：4 種類から選択</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/04-settings.png"><img src="docs/screenshots/04-settings.png" alt="設定：すべての項目を 1 枚のガラスパネルに"></a><br><sub>設定：すべての項目を 1 枚のガラスパネルに</sub></td><td width="50%"><a href="docs/screenshots/05-webcam-overlay.png"><img src="docs/screenshots/05-webcam-overlay.png" alt="ゲームに重ねた Web カメラ映像"></a><br><sub>ゲームに重ねた Web カメラ映像</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/06-retro-vhs.png"><img src="docs/screenshots/06-retro-vhs.png" alt="レトロ表示：VHS"></a><br><sub>レトロ表示：VHS</sub></td><td width="50%"><a href="docs/screenshots/07-3d-depth.png"><img src="docs/screenshots/07-3d-depth.png" alt="3D 奥行き"></a><br><sub>3D 奥行き</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/08-shortcuts.png"><img src="docs/screenshots/08-shortcuts.png" alt="キーボードショートカット"></a><br><sub>キーボードショートカット</sub></td><td width="50%"><a href="docs/screenshots/09-light-theme.png"><img src="docs/screenshots/09-light-theme.png" alt="ライトテーマ"></a><br><sub>ライトテーマ</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/10-zh-TW.png"><img src="docs/screenshots/10-zh-TW.png" alt="台灣正體中文のインターフェース"></a><br><sub>台灣正體中文のインターフェース</sub></td><td width="50%"><a href="docs/screenshots/11-languages.png"><img src="docs/screenshots/11-languages.png" alt="12 のインターフェース言語"></a><br><sub>12 のインターフェース言語</sub></td></tr>
+</table>
 
 ## はじめかた
 

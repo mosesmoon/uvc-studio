@@ -4,6 +4,8 @@
 
 UVC Studio 1.1.0 เป็นแอปเนทีฟสำหรับการ์ดแคปเจอร์ที่ทำงานแบบออฟไลน์ทั้งหมด รองรับ Linux, Windows และ Meta Quest ใช้เล่นเกมคอนโซลผ่านการ์ดแคปเจอร์ UVC รุ่นใดก็ได้ด้วยความหน่วงต่ำ อัปสเกลเป็น 4K เพิ่มเอฟเฟกต์เรโทรหรือความลึก 3D ซ้อนภาพเว็บแคมลงบนเกม บันทึกวิดีโอ และจับภาพหน้าจอได้ โดยไม่เชื่อมต่อเครือข่ายเลย 1.1.0 ซึ่งเป็นเวอร์ชันทางการแรก เปิดตัว UVC Studio แพลทินัมบน Meta Quest: การอัปสเกล 4K และความลึก 3D ยังใช้ฟรีได้อย่างละ 30 นาทีต่อวัน และซื้อครั้งเดียวเพื่อปลดล็อกถาวร ส่วนเวอร์ชัน Linux และ Windows ยังฟรีและเป็นโอเพนซอร์สภายใต้สัญญาอนุญาต MIT แล้ว
 
+![UVC Studio ขณะเล่นเกมพร้อมอัปสเกล 4K](docs/screenshots/02-playing-4k.png)
+
 ## แพลตฟอร์มที่รองรับและไฟล์ดาวน์โหลด
 
 ใช้โค้ดชุดเดียวกัน ทุกแพลตฟอร์มจึงมีฟีเจอร์และหมายเลขเวอร์ชันตรงกัน
@@ -17,6 +19,18 @@ UVC Studio 1.1.0 เป็นแอปเนทีฟสำหรับการ
 ซอร์สโค้ด (Linux และ Windows, สัญญาอนุญาต MIT): ที่เก็บนี้ หรือ [`UVCStudio-v1.1.0-src.tar.gz`](https://github.com/mosesmoon/uvc-studio/releases/download/v1.1.0/UVCStudio-v1.1.0-src.tar.gz)
 
 บน Meta Quest การอัปสเกล 4K และความลึก 3D ใช้ฟรีได้อย่างละ 30 นาทีต่อวัน และ UVC Studio แพลทินัม ซึ่งซื้อในแอปครั้งเดียว จะปลดล็อกให้ใช้ได้ไม่จำกัด ส่วน Linux และ Windows ใช้ได้ทุกฟีเจอร์ฟรี
+
+## ภาพหน้าจอ
+
+Linux ที่ 1920 × 1080 คลิกภาพเพื่อดูขนาดเต็ม หน้าต่าง 2D บน Meta Quest ใช้อินเทอร์เฟซเดียวกัน
+
+<table>
+<tr><td width="50%"><a href="docs/screenshots/01-ready.png"><img src="docs/screenshots/01-ready.png" alt="หน้าจอพร้อมใช้งาน: ตรวจการ์ดแคปเจอร์ เสียงเกม และเว็บแคมแบบสด"></a><br><sub>หน้าจอพร้อมใช้งาน: ตรวจการ์ดแคปเจอร์ เสียงเกม และเว็บแคมแบบสด</sub></td><td width="50%"><a href="docs/screenshots/03-4k-upscaling.png"><img src="docs/screenshots/03-4k-upscaling.png" alt="อัปสเกล 4K: เลือกได้สี่แบบ"></a><br><sub>อัปสเกล 4K: เลือกได้สี่แบบ</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/04-settings.png"><img src="docs/screenshots/04-settings.png" alt="การตั้งค่า: ทุกอย่างอยู่บนแผงกระจกแผงเดียว"></a><br><sub>การตั้งค่า: ทุกอย่างอยู่บนแผงกระจกแผงเดียว</sub></td><td width="50%"><a href="docs/screenshots/05-webcam-overlay.png"><img src="docs/screenshots/05-webcam-overlay.png" alt="ภาพเว็บแคมซ้อนบนเกม"></a><br><sub>ภาพเว็บแคมซ้อนบนเกม</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/06-retro-vhs.png"><img src="docs/screenshots/06-retro-vhs.png" alt="เอฟเฟกต์เรโทร: VHS"></a><br><sub>เอฟเฟกต์เรโทร: VHS</sub></td><td width="50%"><a href="docs/screenshots/07-3d-depth.png"><img src="docs/screenshots/07-3d-depth.png" alt="ความลึก 3D"></a><br><sub>ความลึก 3D</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/08-shortcuts.png"><img src="docs/screenshots/08-shortcuts.png" alt="คีย์ลัด"></a><br><sub>คีย์ลัด</sub></td><td width="50%"><a href="docs/screenshots/09-light-theme.png"><img src="docs/screenshots/09-light-theme.png" alt="ธีมสว่าง"></a><br><sub>ธีมสว่าง</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/10-zh-TW.png"><img src="docs/screenshots/10-zh-TW.png" alt="อินเทอร์เฟซภาษา 台灣正體中文"></a><br><sub>อินเทอร์เฟซภาษา 台灣正體中文</sub></td><td width="50%"><a href="docs/screenshots/11-languages.png"><img src="docs/screenshots/11-languages.png" alt="อินเทอร์เฟซ 12 ภาษา"></a><br><sub>อินเทอร์เฟซ 12 ภาษา</sub></td></tr>
+</table>
 
 ## เริ่มต้นใช้งาน
 

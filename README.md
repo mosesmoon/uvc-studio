@@ -4,6 +4,8 @@
 
 UVC Studio 1.1.0 is a native, fully offline capture-card app for Linux, Windows and Meta Quest: play consoles through any UVC capture card with low latency, upscale to 4K, add a retro look or 3D depth, put your webcam over the game, record and take snapshots — without ever touching the network. 1.1.0, the first official release, brings UVC Studio Platinum to Meta Quest: 4K upscaling and 3D depth stay free for 30 minutes a day each, and a one-time purchase unlocks them for good; the Linux and Windows versions stay free and are now open source under the MIT License.
 
+![UVC Studio playing a game with 4K upscaling](docs/screenshots/02-playing-4k.png)
+
 ## Platforms and downloads
 
 One codebase, the same features and the same version number on every platform.
@@ -17,6 +19,18 @@ One codebase, the same features and the same version number on every platform.
 Source code (Linux and Windows, MIT License): this repository, or [`UVCStudio-v1.1.0-src.tar.gz`](https://github.com/mosesmoon/uvc-studio/releases/download/v1.1.0/UVCStudio-v1.1.0-src.tar.gz).
 
 On Meta Quest, 4K upscaling and 3D depth are free for 30 minutes a day each; UVC Studio Platinum, a one-time in-app purchase, makes them unlimited. On Linux and Windows every feature is free.
+
+## Screenshots
+
+Linux at 1920 × 1080; click a picture to see it full size. The Meta Quest 2D window uses the same interface.
+
+<table>
+<tr><td width="50%"><a href="docs/screenshots/01-ready.png"><img src="docs/screenshots/01-ready.png" alt="Ready screen: capture card, game audio and webcam checked live"></a><br><sub>Ready screen: capture card, game audio and webcam checked live</sub></td><td width="50%"><a href="docs/screenshots/03-4k-upscaling.png"><img src="docs/screenshots/03-4k-upscaling.png" alt="4K upscaling: four upscalers to choose from"></a><br><sub>4K upscaling: four upscalers to choose from</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/04-settings.png"><img src="docs/screenshots/04-settings.png" alt="Settings: everything on one glass panel"></a><br><sub>Settings: everything on one glass panel</sub></td><td width="50%"><a href="docs/screenshots/05-webcam-overlay.png"><img src="docs/screenshots/05-webcam-overlay.png" alt="Webcam overlay over the game"></a><br><sub>Webcam overlay over the game</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/06-retro-vhs.png"><img src="docs/screenshots/06-retro-vhs.png" alt="Retro look: VHS"></a><br><sub>Retro look: VHS</sub></td><td width="50%"><a href="docs/screenshots/07-3d-depth.png"><img src="docs/screenshots/07-3d-depth.png" alt="3D depth"></a><br><sub>3D depth</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/08-shortcuts.png"><img src="docs/screenshots/08-shortcuts.png" alt="Keyboard shortcuts"></a><br><sub>Keyboard shortcuts</sub></td><td width="50%"><a href="docs/screenshots/09-light-theme.png"><img src="docs/screenshots/09-light-theme.png" alt="Light theme"></a><br><sub>Light theme</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/10-zh-TW.png"><img src="docs/screenshots/10-zh-TW.png" alt="Interface in 台灣正體中文"></a><br><sub>Interface in 台灣正體中文</sub></td><td width="50%"><a href="docs/screenshots/11-languages.png"><img src="docs/screenshots/11-languages.png" alt="12 interface languages"></a><br><sub>12 interface languages</sub></td></tr>
+</table>
 
 ## Getting started
 

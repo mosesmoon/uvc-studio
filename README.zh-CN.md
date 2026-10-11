@@ -4,6 +4,8 @@
 
 UVC Studio 1.1.0 是一款原生、完全离线的采集卡应用，支持 Linux、Windows 和 Meta Quest：通过任意 UVC 采集卡低延迟畅玩主机游戏，还能 4K 升频、叠加复古画面或 3D 景深、把摄像头画面叠加到游戏上、录像和截图，全程不联网。1.1.0 是第一个正式版，为 Meta Quest 推出“UVC Studio 白金”：4K 升频与 3D 景深每天各可免费使用 30 分钟，一次购买即可永久无限使用；Linux 与 Windows 版保持免费，并以 MIT 许可证开源。
 
+![UVC Studio 开启 4K 升频玩游戏](docs/screenshots/02-playing-4k.png)
+
 ## 支持平台与下载
 
 同一套代码，各平台功能和版本号完全一致。
@@ -17,6 +19,18 @@ UVC Studio 1.1.0 是一款原生、完全离线的采集卡应用，支持 Linux
 源代码（Linux 与 Windows 版，MIT 许可证）：本仓库，或 [`UVCStudio-v1.1.0-src.tar.gz`](https://github.com/mosesmoon/uvc-studio/releases/download/v1.1.0/UVCStudio-v1.1.0-src.tar.gz)。
 
 Meta Quest 版的 4K 升频与 3D 景深每天各可免费使用 30 分钟；购买一次“UVC Studio 白金”（应用内购买）即可无限使用。Linux 与 Windows 版所有功能均免费。
+
+## 截图
+
+Linux 版，1920 × 1080；点击图片可查看原尺寸。Meta Quest 的 2D 窗口使用相同界面。
+
+<table>
+<tr><td width="50%"><a href="docs/screenshots/01-ready.png"><img src="docs/screenshots/01-ready.png" alt="待机画面：实时检查采集卡、游戏音频与摄像头"></a><br><sub>待机画面：实时检查采集卡、游戏音频与摄像头</sub></td><td width="50%"><a href="docs/screenshots/03-4k-upscaling.png"><img src="docs/screenshots/03-4k-upscaling.png" alt="4K 升频：四种升频方式可选"></a><br><sub>4K 升频：四种升频方式可选</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/04-settings.png"><img src="docs/screenshots/04-settings.png" alt="设置：所有选项都在一个玻璃面板上"></a><br><sub>设置：所有选项都在一个玻璃面板上</sub></td><td width="50%"><a href="docs/screenshots/05-webcam-overlay.png"><img src="docs/screenshots/05-webcam-overlay.png" alt="摄像头画面叠加在游戏上"></a><br><sub>摄像头画面叠加在游戏上</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/06-retro-vhs.png"><img src="docs/screenshots/06-retro-vhs.png" alt="复古画面：VHS"></a><br><sub>复古画面：VHS</sub></td><td width="50%"><a href="docs/screenshots/07-3d-depth.png"><img src="docs/screenshots/07-3d-depth.png" alt="3D 景深"></a><br><sub>3D 景深</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/08-shortcuts.png"><img src="docs/screenshots/08-shortcuts.png" alt="键盘快捷键"></a><br><sub>键盘快捷键</sub></td><td width="50%"><a href="docs/screenshots/09-light-theme.png"><img src="docs/screenshots/09-light-theme.png" alt="浅色主题"></a><br><sub>浅色主题</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/10-zh-TW.png"><img src="docs/screenshots/10-zh-TW.png" alt="台灣正體中文界面"></a><br><sub>台灣正體中文界面</sub></td><td width="50%"><a href="docs/screenshots/11-languages.png"><img src="docs/screenshots/11-languages.png" alt="12 种界面语言"></a><br><sub>12 种界面语言</sub></td></tr>
+</table>
 
 ## 快速上手
 

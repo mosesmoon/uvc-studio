@@ -4,6 +4,8 @@
 
 UVC Studio 1.1.0 là ứng dụng gốc (native) dành cho card capture, chạy hoàn toàn ngoại tuyến trên Linux, Windows và Meta Quest: chơi máy console qua bất kỳ card capture UVC nào với độ trễ thấp, nâng độ phân giải lên 4K, thêm hiệu ứng retro hoặc chiều sâu 3D, đặt hình webcam lên trên game, ghi hình và chụp ảnh — mà không bao giờ kết nối mạng. 1.1.0, phiên bản chính thức đầu tiên, mang UVC Studio Platinum lên Meta Quest: nâng cấp 4K và chiều sâu 3D vẫn miễn phí 30 phút mỗi ngày cho mỗi tính năng, và mua một lần sẽ mở khóa vĩnh viễn; phiên bản Linux và Windows vẫn miễn phí và giờ là mã nguồn mở theo giấy phép MIT.
 
+![UVC Studio khi chơi game với nâng cấp 4K](docs/screenshots/02-playing-4k.png)
+
 ## Nền tảng và tải về
 
 Cùng một mã nguồn nên mọi nền tảng có tính năng và số phiên bản giống nhau.
@@ -17,6 +19,18 @@ Cùng một mã nguồn nên mọi nền tảng có tính năng và số phiên 
 Mã nguồn (Linux và Windows, giấy phép MIT): kho mã này, hoặc [`UVCStudio-v1.1.0-src.tar.gz`](https://github.com/mosesmoon/uvc-studio/releases/download/v1.1.0/UVCStudio-v1.1.0-src.tar.gz).
 
 Trên Meta Quest, nâng cấp 4K và chiều sâu 3D được miễn phí 30 phút mỗi ngày cho mỗi tính năng; UVC Studio Platinum, mua một lần trong ứng dụng, giúp dùng không giới hạn. Trên Linux và Windows, mọi tính năng đều miễn phí.
+
+## Ảnh chụp màn hình
+
+Linux ở 1920 × 1080; bấm vào ảnh để xem kích thước đầy đủ. Cửa sổ 2D trên Meta Quest dùng cùng giao diện.
+
+<table>
+<tr><td width="50%"><a href="docs/screenshots/01-ready.png"><img src="docs/screenshots/01-ready.png" alt="Màn hình chờ: kiểm tra trực tiếp card capture, âm thanh game và webcam"></a><br><sub>Màn hình chờ: kiểm tra trực tiếp card capture, âm thanh game và webcam</sub></td><td width="50%"><a href="docs/screenshots/03-4k-upscaling.png"><img src="docs/screenshots/03-4k-upscaling.png" alt="Nâng cấp 4K: bốn cách để chọn"></a><br><sub>Nâng cấp 4K: bốn cách để chọn</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/04-settings.png"><img src="docs/screenshots/04-settings.png" alt="Cài đặt: mọi thứ trên một bảng kính"></a><br><sub>Cài đặt: mọi thứ trên một bảng kính</sub></td><td width="50%"><a href="docs/screenshots/05-webcam-overlay.png"><img src="docs/screenshots/05-webcam-overlay.png" alt="Webcam đặt lên trên game"></a><br><sub>Webcam đặt lên trên game</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/06-retro-vhs.png"><img src="docs/screenshots/06-retro-vhs.png" alt="Hiệu ứng retro: VHS"></a><br><sub>Hiệu ứng retro: VHS</sub></td><td width="50%"><a href="docs/screenshots/07-3d-depth.png"><img src="docs/screenshots/07-3d-depth.png" alt="Chiều sâu 3D"></a><br><sub>Chiều sâu 3D</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/08-shortcuts.png"><img src="docs/screenshots/08-shortcuts.png" alt="Phím tắt"></a><br><sub>Phím tắt</sub></td><td width="50%"><a href="docs/screenshots/09-light-theme.png"><img src="docs/screenshots/09-light-theme.png" alt="Giao diện sáng"></a><br><sub>Giao diện sáng</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/10-zh-TW.png"><img src="docs/screenshots/10-zh-TW.png" alt="Giao diện 台灣正體中文"></a><br><sub>Giao diện 台灣正體中文</sub></td><td width="50%"><a href="docs/screenshots/11-languages.png"><img src="docs/screenshots/11-languages.png" alt="12 ngôn ngữ giao diện"></a><br><sub>12 ngôn ngữ giao diện</sub></td></tr>
+</table>
 
 ## Bắt đầu
 

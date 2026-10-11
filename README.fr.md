@@ -4,6 +4,8 @@
 
 UVC Studio 1.1.0 est une application native pour cartes de capture, entièrement hors ligne, disponible sous Linux, Windows et sur Meta Quest. Jouez sur vos consoles via n'importe quelle carte de capture UVC avec une latence minimale, passez l'image en 4K, ajoutez un rendu rétro ou de la profondeur 3D, incrustez votre webcam, enregistrez et faites des captures — sans jamais accéder au réseau. La version 1.1.0, la première version officielle, apporte UVC Studio Platinum sur Meta Quest : l'upscaling 4K et la profondeur 3D restent gratuits 30 minutes par jour chacun, et un achat unique les débloque pour toujours ; les versions Linux et Windows restent gratuites et sont désormais open source sous licence MIT.
 
+![UVC Studio en jeu avec l'upscaling 4K](docs/screenshots/02-playing-4k.png)
+
 ## Plateformes et téléchargements
 
 Un seul code source : mêmes fonctionnalités et même numéro de version sur toutes les plateformes.
@@ -17,6 +19,18 @@ Un seul code source : mêmes fonctionnalités et même numéro de version sur to
 Code source (Linux et Windows, licence MIT) : ce dépôt, ou [`UVCStudio-v1.1.0-src.tar.gz`](https://github.com/mosesmoon/uvc-studio/releases/download/v1.1.0/UVCStudio-v1.1.0-src.tar.gz).
 
 Sur Meta Quest, l'upscaling 4K et la profondeur 3D sont gratuits 30 minutes par jour chacun ; UVC Studio Platinum, un achat intégré unique, les rend illimités. Sous Linux et Windows, toutes les fonctions sont gratuites.
+
+## Captures d'écran
+
+Linux en 1920 × 1080 ; cliquez sur une image pour l'afficher en taille réelle. La fenêtre 2D sur Meta Quest a la même interface.
+
+<table>
+<tr><td width="50%"><a href="docs/screenshots/01-ready.png"><img src="docs/screenshots/01-ready.png" alt="Écran d'accueil : carte de capture, son du jeu et webcam vérifiés en direct"></a><br><sub>Écran d'accueil : carte de capture, son du jeu et webcam vérifiés en direct</sub></td><td width="50%"><a href="docs/screenshots/03-4k-upscaling.png"><img src="docs/screenshots/03-4k-upscaling.png" alt="Upscaling 4K : quatre méthodes au choix"></a><br><sub>Upscaling 4K : quatre méthodes au choix</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/04-settings.png"><img src="docs/screenshots/04-settings.png" alt="Réglages : tout sur un seul panneau de verre"></a><br><sub>Réglages : tout sur un seul panneau de verre</sub></td><td width="50%"><a href="docs/screenshots/05-webcam-overlay.png"><img src="docs/screenshots/05-webcam-overlay.png" alt="Webcam incrustée sur le jeu"></a><br><sub>Webcam incrustée sur le jeu</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/06-retro-vhs.png"><img src="docs/screenshots/06-retro-vhs.png" alt="Rendu rétro : VHS"></a><br><sub>Rendu rétro : VHS</sub></td><td width="50%"><a href="docs/screenshots/07-3d-depth.png"><img src="docs/screenshots/07-3d-depth.png" alt="Profondeur 3D"></a><br><sub>Profondeur 3D</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/08-shortcuts.png"><img src="docs/screenshots/08-shortcuts.png" alt="Raccourcis clavier"></a><br><sub>Raccourcis clavier</sub></td><td width="50%"><a href="docs/screenshots/09-light-theme.png"><img src="docs/screenshots/09-light-theme.png" alt="Thème clair"></a><br><sub>Thème clair</sub></td></tr>
+<tr><td width="50%"><a href="docs/screenshots/10-zh-TW.png"><img src="docs/screenshots/10-zh-TW.png" alt="Interface en 台灣正體中文"></a><br><sub>Interface en 台灣正體中文</sub></td><td width="50%"><a href="docs/screenshots/11-languages.png"><img src="docs/screenshots/11-languages.png" alt="12 langues d'interface"></a><br><sub>12 langues d'interface</sub></td></tr>
+</table>
 
 ## Prise en main
 

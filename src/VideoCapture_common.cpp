@@ -247,6 +247,13 @@ void VideoCapture::publish(FramePtr f) {
 }
 
 // ---------------------------------------------------------------------------
+// Display names of the test devices (UVC_STUDIO_TEST_NAME and
+// UVC_STUDIO_TEST_WEBCAM_NAME, for screenshots).
+static const char* testPatternName(bool webcam = false) {
+  const char* n = getenv(webcam ? "UVC_STUDIO_TEST_WEBCAM_NAME" : "UVC_STUDIO_TEST_NAME");
+  return n && *n ? n : (webcam ? "Test Webcam" : "Test Pattern");
+}
+
 bool testPatternEnabled() {
   const char* e = getenv("UVC_STUDIO_TEST_PATTERN");
   return e && *e && strcmp(e, "0") != 0;
@@ -256,7 +263,7 @@ VideoDeviceInfo testPatternDevice(int index) {
   VideoDeviceInfo d;
   d.id = index ? "test:webcam" : "test:pattern";
   d.path = d.id;
-  d.name = index ? "Test Webcam" : "Test Pattern";
+  d.name = testPatternName(index != 0);
   for (auto r : {std::pair<int, int>{3840, 2160}, {1920, 1080}, {1280, 720}}) {
     VideoMode m;
     m.width = r.first;
@@ -275,7 +282,7 @@ bool VideoCapture::openTestPattern(const StreamSettings& want) {
     actual_ = want;
     const char* m = getenv("UVC_STUDIO_TEST_PATTERN");
     actual_.fourcc = (m && !strcmp(m, "mjpeg")) ? FCC_MJPG : FCC_YUYV;
-    name_ = "Test Pattern";
+    name_ = testPatternName();
   }
   genStop_ = false;
   running_ = true;
