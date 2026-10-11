@@ -1,0 +1,5 @@
+# UVC Studio version (all platforms): MAJOR.MINOR.PATCH.
+# A pre-release build carries a Beta number (Beta 1, Beta 2, ...);
+# BETA=0 is the release of VERSION.
+VERSION=1.1.0
+BETA=0

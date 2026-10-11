@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=UVC Studio
+GenericName=Capture Card Viewer
+Comment=Play any console through your capture card — low-latency viewer, recorder and effects
+Exec=uvc-studio
+Icon=uvc-studio
+Categories=AudioVideo;Video;Game;
+Keywords=capture;hdmi;uvc;console;game;webcam;
+Terminal=false
+StartupNotify=true
+X-AppImage-Version=1.0.0

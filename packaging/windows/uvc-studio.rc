@@ -1,0 +1,28 @@
+#include <winver.h>
+#include "version.h"
+1 ICON "uvc-studio.ico"
+1 24 "uvc-studio.manifest"
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION UVC_VERSION_RC
+ PRODUCTVERSION UVC_VERSION_RC
+ FILEOS VOS_NT_WINDOWS32
+ FILETYPE VFT_APP
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040904B0"
+    BEGIN
+      VALUE "CompanyName", "UVC Studio"
+      VALUE "FileDescription", "UVC Studio - capture card viewer"
+      VALUE "FileVersion", UVC_VERSION_NAME
+      VALUE "InternalName", "uvc-studio"
+      VALUE "OriginalFilename", "UVCStudio.exe"
+      VALUE "ProductName", "UVC Studio"
+      VALUE "ProductVersion", UVC_VERSION_NAME
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x409, 1200
+  END
+END

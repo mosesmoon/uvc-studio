@@ -1,0 +1,9 @@
+# Build output
+build-linux/
+build-win/
+dist/
+dist-win/
+*.AppImage
+*.exe
+*.zip
+*.tar.gz
