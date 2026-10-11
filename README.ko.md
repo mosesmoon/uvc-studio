@@ -1,6 +1,6 @@
 # UVC Studio 기능 소개
 
-[台灣正體中文](README.zh-TW.md) · [English](README.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Español](README.es.md) · [Português](README.pt.md) · [日本語](README.ja.md) · **한국어** · [简体中文](README.zh-CN.md) · [ไทย](README.th.md) · [Tiếng Việt](README.vi.md)
+[English](README.md) · [台灣正體中文](README.zh-TW.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Español](README.es.md) · [Português](README.pt.md) · [日本語](README.ja.md) · **한국어** · [简体中文](README.zh-CN.md) · [ไทย](README.th.md) · [Tiếng Việt](README.vi.md)
 
 UVC Studio 1.1.0는 Linux, Windows, Meta Quest에서 동작하는 네이티브 캡처 카드 앱으로, 네트워크 연결 없이 완전히 오프라인으로 작동합니다. 어떤 UVC 캡처 카드로든 콘솔 게임을 낮은 지연으로 즐기고, 4K 업스케일과 레트로 화면, 3D 입체감을 더하고, 게임 화면 위에 웹캠을 띄우고, 녹화와 스냅샷까지 할 수 있습니다. 첫 정식 버전인 1.1.0은 Meta Quest에 UVC Studio 플래티넘을 도입했습니다. 4K 업스케일과 3D 입체감은 각각 하루 30분 무료로 쓸 수 있고, 한 번 구매하면 영구히 무제한이 됩니다. Linux와 Windows 버전은 계속 무료이며 이제 MIT 라이선스의 오픈 소스입니다.
 

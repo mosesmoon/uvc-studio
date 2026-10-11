@@ -1,6 +1,6 @@
 # UVC Studio — guia de funcionalidades
 
-[台灣正體中文](README.zh-TW.md) · [English](README.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Español](README.es.md) · **Português** · [日本語](README.ja.md) · [한국어](README.ko.md) · [简体中文](README.zh-CN.md) · [ไทย](README.th.md) · [Tiếng Việt](README.vi.md)
+[English](README.md) · [台灣正體中文](README.zh-TW.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Español](README.es.md) · **Português** · [日本語](README.ja.md) · [한국어](README.ko.md) · [简体中文](README.zh-CN.md) · [ไทย](README.th.md) · [Tiếng Việt](README.vi.md)
 
 O UVC Studio 1.1.0 é uma aplicação nativa para placas de captura, totalmente offline, para Linux, Windows e Meta Quest: jogue nas suas consolas através de qualquer placa de captura UVC com latência mínima, aumente a imagem para 4K, acrescente um efeito retro ou profundidade 3D, sobreponha a webcam ao jogo, grave e faça capturas — sem nunca aceder à rede. A 1.1.0, a primeira versão oficial, traz o UVC Studio Platinum para o Meta Quest: o upscaling 4K e a profundidade 3D continuam grátis durante 30 minutos por dia cada um, e uma compra única desbloqueia-os para sempre; as versões para Linux e Windows continuam gratuitas e passam a ser de código aberto sob a licença MIT.
 

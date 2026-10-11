@@ -1,6 +1,6 @@
 # แนะนำฟีเจอร์ของ UVC Studio
 
-[台灣正體中文](README.zh-TW.md) · [English](README.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Español](README.es.md) · [Português](README.pt.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [简体中文](README.zh-CN.md) · **ไทย** · [Tiếng Việt](README.vi.md)
+[English](README.md) · [台灣正體中文](README.zh-TW.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Español](README.es.md) · [Português](README.pt.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [简体中文](README.zh-CN.md) · **ไทย** · [Tiếng Việt](README.vi.md)
 
 UVC Studio 1.1.0 เป็นแอปเนทีฟสำหรับการ์ดแคปเจอร์ที่ทำงานแบบออฟไลน์ทั้งหมด รองรับ Linux, Windows และ Meta Quest ใช้เล่นเกมคอนโซลผ่านการ์ดแคปเจอร์ UVC รุ่นใดก็ได้ด้วยความหน่วงต่ำ อัปสเกลเป็น 4K เพิ่มเอฟเฟกต์เรโทรหรือความลึก 3D ซ้อนภาพเว็บแคมลงบนเกม บันทึกวิดีโอ และจับภาพหน้าจอได้ โดยไม่เชื่อมต่อเครือข่ายเลย 1.1.0 ซึ่งเป็นเวอร์ชันทางการแรก เปิดตัว UVC Studio แพลทินัมบน Meta Quest: การอัปสเกล 4K และความลึก 3D ยังใช้ฟรีได้อย่างละ 30 นาทีต่อวัน และซื้อครั้งเดียวเพื่อปลดล็อกถาวร ส่วนเวอร์ชัน Linux และ Windows ยังฟรีและเป็นโอเพนซอร์สภายใต้สัญญาอนุญาต MIT แล้ว
 

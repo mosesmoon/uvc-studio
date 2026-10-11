@@ -1,6 +1,6 @@
 # UVC Studio 機能紹介
 
-[台灣正體中文](README.zh-TW.md) · [English](README.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Español](README.es.md) · [Português](README.pt.md) · **日本語** · [한국어](README.ko.md) · [简体中文](README.zh-CN.md) · [ไทย](README.th.md) · [Tiếng Việt](README.vi.md)
+[English](README.md) · [台灣正體中文](README.zh-TW.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Español](README.es.md) · [Português](README.pt.md) · **日本語** · [한국어](README.ko.md) · [简体中文](README.zh-CN.md) · [ไทย](README.th.md) · [Tiếng Việt](README.vi.md)
 
 UVC Studio 1.1.0 は、Linux・Windows・Meta Quest で動く、完全オフラインのネイティブなキャプチャーカード用アプリです。どんな UVC キャプチャーカードでもゲーム機を低遅延で遊べて、4K アップスケール、レトロ表示や 3D 奥行き、Web カメラのオーバーレイ、録画、スナップショットまでこなし、ネットワークには一切接続しません。最初の正式版となる 1.1.0 では、Meta Quest 向けに UVC Studio プラチナを導入しました。4K アップスケールと 3D 奥行きはそれぞれ 1 日 30 分まで無料で、一度の購入でずっと無制限になります。Linux 版と Windows 版は引き続き無料で、MIT ライセンスのオープンソースになりました。
 

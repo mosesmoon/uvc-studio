@@ -1,6 +1,6 @@
 # UVC Studio – Funktionsübersicht
 
-[台灣正體中文](README.zh-TW.md) · [English](README.md) · **Deutsch** · [Français](README.fr.md) · [Italiano](README.it.md) · [Español](README.es.md) · [Português](README.pt.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [简体中文](README.zh-CN.md) · [ไทย](README.th.md) · [Tiếng Việt](README.vi.md)
+[English](README.md) · [台灣正體中文](README.zh-TW.md) · **Deutsch** · [Français](README.fr.md) · [Italiano](README.it.md) · [Español](README.es.md) · [Português](README.pt.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [简体中文](README.zh-CN.md) · [ไทย](README.th.md) · [Tiếng Việt](README.vi.md)
 
 UVC Studio 1.1.0 ist eine native App für Capture-Karten, die komplett offline läuft – unter Linux, Windows und auf der Meta Quest. Du spielst über jede UVC-Capture-Karte mit minimaler Latenz, skalierst auf 4K hoch, legst einen Retro-Look oder 3D-Tiefe darüber, blendest deine Webcam ins Spiel ein, nimmst auf und machst Snapshots – ohne dass die App jemals ins Netz geht. 1.1.0, die erste offizielle Version, bringt UVC Studio Platinum auf die Meta Quest: 4K-Upscaling und 3D-Tiefe bleiben jeweils 30 Minuten am Tag frei, ein einmaliger Kauf schaltet sie dauerhaft frei; die Versionen für Linux und Windows bleiben kostenlos und sind jetzt Open Source unter der MIT-Lizenz.
 

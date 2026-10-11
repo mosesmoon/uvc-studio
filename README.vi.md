@@ -1,6 +1,6 @@
 # Giới thiệu tính năng UVC Studio
 
-[台灣正體中文](README.zh-TW.md) · [English](README.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Español](README.es.md) · [Português](README.pt.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [简体中文](README.zh-CN.md) · [ไทย](README.th.md) · **Tiếng Việt**
+[English](README.md) · [台灣正體中文](README.zh-TW.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Español](README.es.md) · [Português](README.pt.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [简体中文](README.zh-CN.md) · [ไทย](README.th.md) · **Tiếng Việt**
 
 UVC Studio 1.1.0 là ứng dụng gốc (native) dành cho card capture, chạy hoàn toàn ngoại tuyến trên Linux, Windows và Meta Quest: chơi máy console qua bất kỳ card capture UVC nào với độ trễ thấp, nâng độ phân giải lên 4K, thêm hiệu ứng retro hoặc chiều sâu 3D, đặt hình webcam lên trên game, ghi hình và chụp ảnh — mà không bao giờ kết nối mạng. 1.1.0, phiên bản chính thức đầu tiên, mang UVC Studio Platinum lên Meta Quest: nâng cấp 4K và chiều sâu 3D vẫn miễn phí 30 phút mỗi ngày cho mỗi tính năng, và mua một lần sẽ mở khóa vĩnh viễn; phiên bản Linux và Windows vẫn miễn phí và giờ là mã nguồn mở theo giấy phép MIT.
 

@@ -1,6 +1,6 @@
 # UVC Studio 功能說明
 
-**台灣正體中文** · [English](README.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Español](README.es.md) · [Português](README.pt.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [简体中文](README.zh-CN.md) · [ไทย](README.th.md) · [Tiếng Việt](README.vi.md)
+[English](README.md) · **台灣正體中文** · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Español](README.es.md) · [Português](README.pt.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [简体中文](README.zh-CN.md) · [ไทย](README.th.md) · [Tiếng Việt](README.vi.md)
 
 UVC Studio 1.1.0 是一套原生、完全離線的擷取卡應用程式，支援 Linux、Windows 與 Meta Quest：透過任何 UVC 擷取卡低延遲玩主機遊戲，並可 4K 升頻、加上復古畫面或 3D 景深、把網路攝影機畫面疊在遊戲上、錄影與截圖，全程不連網。1.1.0 是第一個正式版，為 Meta Quest 推出「UVC Studio 白金」：4K 升頻與 3D 景深每天各可免費使用 30 分鐘，一次購買即可永久無限使用；Linux 與 Windows 版維持免費，並以 MIT 授權開放原始碼。
 
