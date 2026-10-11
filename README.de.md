@@ -171,7 +171,7 @@ Mit `?` oder `H` zeigt die App dieselbe Liste als Übersicht an; jede Taste oder
 
 ## Datenschutz
 
-UVC Studio arbeitet vollständig auf deinem Gerät. Bild, Ton und Aufnahmen verlassen es nie – kein Konto, kein Upload, kein Tracking, und die App geht niemals ins Netz. Auf der Meta Quest laufen der Kauf von Platinum und die Prüfung des Kaufs über den Meta-Horizon-Store-Dienst der Brille; UVC Studio selbst sendet nichts.
+UVC Studio arbeitet vollständig auf deinem Gerät. Bild, Ton und Aufnahmen verlassen es nie – kein Konto, kein Upload, kein Tracking, und die App geht niemals ins Netz. Auf der Meta Quest laufen der Kauf von Platinum und die Prüfung des Kaufs über den Meta-Horizon-Store-Dienst der Brille; UVC Studio selbst sendet nichts. Die vollständige Datenschutzerklärung steht in [PRIVACY.md](PRIVACY.md).
 
 ## Lizenzen
 

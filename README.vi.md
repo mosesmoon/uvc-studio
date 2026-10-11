@@ -171,7 +171,7 @@ Nhấn `?` hoặc `H` trong ứng dụng để xem đúng danh sách này; nhấ
 
 ## Quyền riêng tư
 
-UVC Studio hoạt động hoàn toàn trên thiết bị của bạn. Hình ảnh, âm thanh và bản ghi không bao giờ rời khỏi thiết bị — không tài khoản, không tải lên, không theo dõi, và ứng dụng không bao giờ kết nối mạng. Trên Meta Quest, việc mua Platinum và kiểm tra giao dịch được thực hiện qua dịch vụ Meta Horizon Store của kính; bản thân UVC Studio không gửi gì cả.
+UVC Studio hoạt động hoàn toàn trên thiết bị của bạn. Hình ảnh, âm thanh và bản ghi không bao giờ rời khỏi thiết bị — không tài khoản, không tải lên, không theo dõi, và ứng dụng không bao giờ kết nối mạng. Trên Meta Quest, việc mua Platinum và kiểm tra giao dịch được thực hiện qua dịch vụ Meta Horizon Store của kính; bản thân UVC Studio không gửi gì cả. Chính sách quyền riêng tư đầy đủ có trong [PRIVACY.md](PRIVACY.md).
 
 ## Giấy phép
 

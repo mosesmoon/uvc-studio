@@ -171,7 +171,7 @@ Pulsa `?` o `H` en la aplicación para ver esta misma lista; cualquier tecla o u
 
 ## Privacidad
 
-UVC Studio funciona íntegramente en tu dispositivo. La imagen, el sonido y las grabaciones nunca salen de él: sin cuenta, sin subidas, sin rastreo, y la aplicación no se conecta nunca a la red. En Meta Quest, la compra de Platinum y su comprobación pasan por el servicio Meta Horizon Store del visor; UVC Studio no envía nada.
+UVC Studio funciona íntegramente en tu dispositivo. La imagen, el sonido y las grabaciones nunca salen de él: sin cuenta, sin subidas, sin rastreo, y la aplicación no se conecta nunca a la red. En Meta Quest, la compra de Platinum y su comprobación pasan por el servicio Meta Horizon Store del visor; UVC Studio no envía nada. La política de privacidad completa está en [PRIVACY.md](PRIVACY.md).
 
 ## Licencias
 

@@ -171,7 +171,7 @@ Linux 版，1920 × 1080；点击图片可查看原尺寸。Meta Quest 的 2D �
 
 ## 隐私
 
-UVC Studio 完全在你的设备上运行。画面、声音和录像都不会离开这台设备——无需账号、不上传、不跟踪，应用也从不联网。Meta Quest 版购买白金与确认购买记录，都通过头显的 Meta Horizon Store 服务处理；UVC Studio 本身不发送任何数据。
+UVC Studio 完全在你的设备上运行。画面、声音和录像都不会离开这台设备——无需账号、不上传、不跟踪，应用也从不联网。Meta Quest 版购买白金与确认购买记录，都通过头显的 Meta Horizon Store 服务处理；UVC Studio 本身不发送任何数据。完整的隐私政策见 [PRIVACY.md](PRIVACY.md)。
 
 ## 开源许可
 

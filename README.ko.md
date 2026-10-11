@@ -171,7 +171,7 @@ ShadowCast, Elgato, AVerMedia, Magewell은 물론 저렴한 USB 3 HDMI 동글까
 
 ## 개인정보 보호
 
-UVC Studio는 모든 작업을 사용자의 기기에서 처리합니다. 화면, 소리, 녹화 파일은 기기 밖으로 나가지 않습니다. 계정도, 업로드도, 추적도 없으며 앱은 네트워크에 접속하지 않습니다. Meta Quest에서 플래티넘 구매와 구매 확인은 헤드셋의 Meta Horizon Store 서비스를 통해 이루어지며, UVC Studio 자체는 아무것도 보내지 않습니다.
+UVC Studio는 모든 작업을 사용자의 기기에서 처리합니다. 화면, 소리, 녹화 파일은 기기 밖으로 나가지 않습니다. 계정도, 업로드도, 추적도 없으며 앱은 네트워크에 접속하지 않습니다. Meta Quest에서 플래티넘 구매와 구매 확인은 헤드셋의 Meta Horizon Store 서비스를 통해 이루어지며, UVC Studio 자체는 아무것도 보내지 않습니다. 전체 개인정보 처리방침은 [PRIVACY.md](PRIVACY.md)에 있습니다.
 
 ## 라이선스
 

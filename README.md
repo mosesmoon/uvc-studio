@@ -171,7 +171,7 @@ Press `?` or `H` in the app for the same list as a shortcut sheet; any key or cl
 
 ## Privacy
 
-UVC Studio works entirely on your device. Picture, sound and recordings never leave it — no account, no upload, no tracking, and the app never touches the network. On Meta Quest, buying Platinum and checking the purchase go through the headset's Meta Horizon Store service; UVC Studio itself sends nothing.
+UVC Studio works entirely on your device. Picture, sound and recordings never leave it — no account, no upload, no tracking, and the app never touches the network. On Meta Quest, buying Platinum and checking the purchase go through the headset's Meta Horizon Store service; UVC Studio itself sends nothing. The full privacy policy is in [PRIVACY.md](PRIVACY.md).
 
 ## Licences
 
